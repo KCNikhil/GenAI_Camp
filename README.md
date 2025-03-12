@@ -2,7 +2,7 @@
 
 Welcome to my personal project on **Generative AI**, where I explore the integration of **AWS Bedrock** into applications for AI-driven content generation. This repository provides a step-by-step guide to setting up your development environment, configuring AWS services, and working with **Node.js, Git, and Vite**.
 
----
+----
 
 ## 🚀 Project Overview
 
